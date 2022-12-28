@@ -1,2 +1,2 @@
 # bootstrap
-practicing bootstrap with pycharm(maktabkhooneh free course)
+practicing bootstrap with pycharm(maktabkhooneh's free course)
